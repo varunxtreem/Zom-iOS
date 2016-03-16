@@ -159,3 +159,9 @@ Thank you to everyone who helped this project become a reality! This project is 
 	* [burhan teoman](https://www.transifex.net/accounts/profile/burhanteoman/) (Turkish)
 	* [shikibiomernok](https://www.transifex.net/accounts/profile/shikibiomernok/) (Hungarian)
 * Many many more!
+
+ content filter for your Open source platform
+ 
+ There are a lot of websites out there—websites offering content you might not want the users on your home (or home office) network seeing, whether they're children or adults. To avoid this, you can employ content filtering. Many content filtering systems do a good job of preventing users from stumbling onto nefarious sites by using pure URL-driven blacklists; if a site is on the blacklist, a browser on your network won’t be able to reach said site.
+ 
+ Studies reveal the average employee spends 75 minutes per day using office computers for non-business related activity, costing employers thousands of dollars per year, per employee. If you are a business owner, government agency or academic institution, receiving blacklist updates may be required by law (eg. CIPA) in order to meet certain government regulations. The ClearCenter [Content Filter]( https://www.clearos.com/products/purchase/clearos-marketplace-apps/detail/cloud/Content_Filter_Blacklists/) Updates service provides updates to the URL blacklist to improve the effectiveness of the filter.
